@@ -1,0 +1,11 @@
+origen,destino,peso,dirigida
+Centro,Plaza,4,0
+Centro,Mercado,2,0
+Mercado,Plaza,1,0
+Mercado,Terminal,7,0
+Plaza,Terminal,5,0
+Plaza,Hospital,8,0
+Terminal,Hospital,3,0
+Terminal,Aeropuerto,6,0
+Hospital,Aeropuerto,2,0
+Casa,Terminal,12,1
